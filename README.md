@@ -21,7 +21,7 @@ The project demonstrates:
 ----------
 
 ## 🧱 Project Structure
-playwright-assignment-tech99
+playwright-assignment-mary
 │
 ├── .github/
 │ └── workflows/
