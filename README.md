@@ -1,4 +1,4 @@
-# Playwright Automation Assignment – DemoBlaze - Tech99
+# Playwright Automation Assignment – Mary
 
 ## 📌 Overview
 This project is an **end-to-end automation testing demo** built with **Playwright (TypeScript)** for the website:
